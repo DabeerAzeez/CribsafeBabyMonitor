@@ -1,3 +1,5 @@
+"""This file was not created by me, it was written by the iBioMed Design Course instructors at McMaster University"""
+
 import busio
 import board
 import smbus
